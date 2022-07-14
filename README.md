@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node.js , express.js and mongoDB**
 
-- 💬 Ask me about **Javascript and Css.**
+- 💬 Ask me about **Javascript and React.**
 
 - 📫 How to reach me : **abhisheknarkhede123@gmail.com**
 
